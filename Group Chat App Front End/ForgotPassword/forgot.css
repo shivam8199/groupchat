@@ -1,0 +1,32 @@
+#Form{
+    padding:40px 40px;
+    height: 130px;
+    margin:auto;
+    margin-top: 150px;
+    width:200px;
+    background-color:  rgb(55, 11, 99);
+    border-radius:30px;
+}
+body{
+    background-color:rgb(28, 5, 50);
+}
+
+#email{
+    margin-top:30px ;
+    width: 200px;
+    border-radius: 10px;
+    height:30px;
+}
+
+#submit:hover{
+    background-color: rgb(170, 206, 170);
+}
+
+
+#submit{
+    border-radius: 15px;
+    padding: 6px 70px;
+    margin-top: -100px;
+    margin-left: 10px;
+    background-color:rebeccapurple;
+}

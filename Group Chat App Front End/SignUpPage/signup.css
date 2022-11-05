@@ -1,0 +1,94 @@
+#Form{
+    background-color: rgb(50, 13, 87);
+    padding:50px 60px;
+    height: 520px;
+    margin:auto;
+    margin-top: 100px;
+    width:250px;
+    border-radius:15px;
+
+}
+body{
+    background-color: rgb(37, 9, 65); 
+
+}
+
+#FirstName{
+    width: 150px;
+    height:25px;
+    border-radius: 5px;
+    color: black;
+ 
+}
+
+#LastName{
+    width: 150px;
+    height:25px;
+    border-radius: 5px;
+    color: black;
+    
+}
+
+#Email{
+    width: 150px;
+    height:25px;
+    border-radius: 5px;
+    color: black;
+}
+
+#Password{
+    width: 150px;
+    height:25px;
+    margin-left: 0px;
+    border-radius: 5px;
+    color: black;
+    background-color:rgb(229, 214, 244);
+}
+
+#Re-EnterPasssword{
+    width: 152px;
+    height:25px;
+    color: black;
+    border-radius: 5px;
+    background-color:rgb(229, 214, 244);
+}
+label{
+    color: rgb(229, 214, 244);
+    
+}
+
+#checkbox{
+    margin-left: -15px;
+    
+}
+input{
+    
+    color: rgb(229, 214, 244);
+    padding: 5px 40px;
+}
+
+#submit{
+    border-radius: 10px;
+    padding: 10px 95px;
+    background-color:rebeccapurple;
+    border: solid 3px rebeccapurple;
+}
+button a{
+    border-radius: 5px;
+    padding: 5px 5px;
+    text-decoration: none;
+    color: aliceblue;
+   
+    
+}
+#submit:hover{
+    background-color: rgb(170, 206, 170);
+}
+
+#userId{
+    
+    width: 150px;
+    height:25px;
+    border-radius: 5px;
+    color: black;
+}

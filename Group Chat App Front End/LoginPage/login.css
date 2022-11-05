@@ -1,0 +1,66 @@
+#Form{
+    
+    padding:40px 40px;
+    height: 230px;
+    margin:auto;
+    margin-top: 150px;
+    width:200px;
+    background-color:  rgb(55, 11, 99);
+    border-radius:30px;
+}
+
+#Email{
+    width: 200px;
+    height:30px;
+    border-radius: 5px;
+    
+}
+
+#Password{
+    width: 200px;
+    height:30px;
+    border-radius: 5px;
+}
+
+#submit{
+    border-radius: 10px;
+    padding: 10px 80px;
+    background-color:rebeccapurple;
+    border: 2px solid  rebeccapurple
+
+}
+
+body{
+    background-color:rgb(28, 5, 50);
+}
+
+input{
+    background-color: whitesmoke
+    
+}
+
+#submit:hover{
+    background-color: rgb(170, 206, 170);
+}
+label{
+    color: rgb(229, 214, 244);
+}
+button a{
+    border-radius: 5px;
+    padding: 5px 5px;
+    text-decoration: none;
+    color: aliceblue;
+    
+    
+}
+button:hover { 
+    
+    background-color:rgb(53, 26, 80);
+}
+button{
+    border-radius: 15px;
+    padding: 8px 6px;
+    background-color:rebeccapurple;
+    border: 2px solid  rebeccapurple
+}
+

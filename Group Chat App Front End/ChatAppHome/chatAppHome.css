@@ -1,0 +1,55 @@
+#chatD{
+    text-align: center;
+    background-color: rebeccapurple;
+    padding:20px 10px;
+    margin-top: 50px;
+    border-radius: 50px;
+    font-size: 30px;
+}
+body{
+
+    background-color: rgb(50, 13, 87);
+    padding:50px 60px;
+    margin:auto;
+    margin-top: -70px;
+    border-radius:15px;
+
+}
+#usersButton{
+    background-color: rebeccapurple;
+    padding: 5px 10px;
+    width: 100px;
+    border-radius: 15px;
+    margin-left: 50%;
+
+}
+
+#usersButton:hover{
+    background-color: rgb(170, 206, 170);
+ 
+}
+
+#createFunctions{
+    text-decoration: none;
+    background-color: rebeccapurple;
+    width: 90px;
+    border-radius: 15px;
+}
+
+#createFunctions:hover{
+    background-color: rgb(170, 206, 170);
+}
+#logout{
+    margin-left:100%;
+    margin-top:40px ;
+    border-radius: 15px;
+    padding: 8px 6px;
+    background-color:rebeccapurple;
+   
+}
+
+#logout:hover{
+   background-color: rgb(170, 206, 170);
+
+}
+

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Functions</title>
+    <link rel='stylesheet' href="createGroup.css">
+</head>
+<body>
+    <form id="createGroup">
+    <p class="createGroup">Create Group</p>
+    <input type="text" id="crInput">
+    <input type="submit" id="submit">
+    </form>
+    
+    <form id="deleteGroup">
+        <p class="deleteGroup">Delete Group</p>
+        <input type="text" id="delGroup">
+        <input type="submit" id="submit">
+    </form>
+
+    <form id="addMember">
+        <p class="addMember"> Add Member</p>
+        <input type="text" id="groupName">
+        <input type="email" id="ADDEmailID">
+        <input type="submit" id="submit">
+    </form>
+
+    <form id="deleteMember">
+        <p class="deleteMember">Delete Member</p>
+        <input type="text" id="deleteGroupName">
+        <input type="email" id="deleteMembers">
+        <input type="submit" id="submit" >
+    </form>
+
+    <form id="makeAdmin">
+        <p class="makeAdmin">Make Admin</p>
+        <input type="text" id="makeAdminGroup">
+        <input type="email"  id="userEmailForGroup">
+        <input type="submit" id="submit">
+    </form>
+
+
+</body>
+   <script src="createGroup.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js"></script>
+</html>

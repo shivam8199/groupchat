@@ -1,0 +1,42 @@
+#form{
+    padding:40px 40px;
+    height: 230px;
+    margin:auto;
+    margin-top: 150px;
+    width:200px;
+    background-color:  rgb(55, 11, 99);
+    border-radius:30px;
+}
+body{
+    background-color:rgb(28, 5, 50);
+}
+#submit:hover{
+    background-color: rgb(170, 206, 170);
+}
+
+
+#submit{
+    border-radius: 15px;
+    padding: 6px 70px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color:rebeccapurple;
+}
+
+#newEmailPassword{
+    margin-top: 5px;
+    width: 200px;
+    border-radius: 10px;
+    height:30px;
+}
+
+#reNewEmailPassword{
+    margin-top: 5px;
+    width: 200px;
+    border-radius: 10px;
+    height:30px;
+}
+
+label{
+    color: rgb(229, 214, 244);
+}

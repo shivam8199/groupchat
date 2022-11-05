@@ -1,0 +1,62 @@
+form{
+    padding:40px 40px;
+    height: 30px;
+    margin:auto;
+    margin-top: 150px;
+    width:250px;
+    background-color:  rgb(55, 11, 99);
+    border-radius:30px;
+}
+
+#submit:hover{
+    background-color: rgb(182, 205, 182);
+}
+
+body{
+    background-color: rgb(37, 9, 65); 
+}
+
+#submit{
+    color:black;
+    height: 30px;
+    border-radius: 15px;
+    padding: 6px 15px;
+    border:2px solid rebeccapurple;
+    background-color:rebeccapurple;
+}
+
+input{
+    height: 20px;
+    color: rgb(229, 214, 244);
+    border-radius: 5px;
+}
+
+.createGroup{
+    margin-top: -25px;
+    color:whitesmoke;
+}
+
+.deleteGroup{
+    margin-top: -25px;
+    color:whitesmoke;
+}
+
+.addMember{
+    margin-top: -25px;
+    color:whitesmoke;
+    
+}
+
+.deleteMember{
+    margin-top: -25px;
+    color:whitesmoke;
+}
+
+.makeAdmin{
+    margin-top: -25px;
+    color:whitesmoke;
+}
+
+input{
+    color: black;
+}
